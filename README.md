@@ -52,4 +52,25 @@ This is a simple Todo List application built using the MERN stack. It allows use
    ```bash
    git clone https://github.com/your-username/mern-todo-list.git
    
-2.Install dependencies for the backend:
+2. Install dependencies for the backend:
+
+   ```bash
+   cd mern-todo-list/backend
+   npm install
+
+3. Install dependencies for the frontend:
+
+   ```bash
+   cd ../frontend
+   npm install
+
+4. Start the backend server:
+
+  ```bash
+   cd ../backend
+   npm start
+
+5. Start the frontend development server:
+  ```bash
+   cd ../frontend
+   npm start
