@@ -70,8 +70,8 @@ This is a simple Todo List application built using the MERN stack. It allows use
    cd ../backend
    npm start
 
-5. Start the frontend development server:
+4. Start the frontend server:
 
   ```bash
    cd ../frontend
-   npm start
+   npm dev run
