@@ -64,14 +64,15 @@ This is a simple Todo List application built using the MERN stack. It allows use
    cd ../frontend
    npm install
 
-4. Start the backend server:
+## Usage
 
-  ```bash
-   cd ../backend
-   npm start
+To add a new task, follow these steps:
+1. Click on the "Add Task" button.
+2. Fill in the title and description for the new task in the provided input fields.
 
-4. Start the frontend server:
+To edit a task, follow these steps:
+1. Click on the task you want to edit.
+2. Make changes to the title and description in the input fields that appear.
 
-  ```bash
-   cd ../frontend
-   npm dev run
+To delete a task, follow these steps:
+1. Click on the delete icon next to the task you want to delete.
